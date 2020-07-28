@@ -2,7 +2,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="Screenshots/webpage.png" width="800" height="400">
+<img src="screenshots/webpage.png" width="800" height="400">
 <br>
 <br>
 <a href="">To view the main page our project click here!</a>
@@ -43,7 +43,7 @@ Flask web application to make predictions.Finally, we deployed our FLASK app in 
 
 <b>1.Example of positive Sentiment :</b><br> <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="Screenshots/happy_output.png" width="600" height="300">
+<img src="screenshots/happyoutput.png" width="600" height="300">
 <br>
 <br>
 <b>2.Example of Negative Sentiment :</b><br> <br>
