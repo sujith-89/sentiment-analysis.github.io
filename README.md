@@ -6,7 +6,6 @@
 <br>
 <br>
 <br><br>
-<a href="">For project demo click here!</a>
 
 
 # project description
