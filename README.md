@@ -5,7 +5,6 @@
 <img src="screenshots/webpage.png" width="800" height="400">
 <br>
 <br>
-<a href="">To view the main page our project click here!</a>
 <br><br>
 <a href="">For project demo click here!</a>
 
