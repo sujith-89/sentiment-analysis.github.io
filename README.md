@@ -48,7 +48,7 @@ Flask web application to make predictions.Finally, we deployed our FLASK app in 
 <br>
 <b>2.Example of Negative Sentiment :</b><br> <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="Screenshots/sad_output.png" width="600" height="300">
+<img src="screenshots/sad_output.png" width="600" height="300">
 <br>
 # contributor
 
