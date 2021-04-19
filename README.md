@@ -5,7 +5,6 @@
 <img src="screenshots/webpage.png" width="800" height="400">
 <br>
 <br>
-<a href="https://youtu.be/LSXujuoE80A">for project demo video click here</a>
 <br><br>
 <br>
 
@@ -31,7 +30,7 @@ Flask web application to make predictions.
 
 # Languages and framework used
 
-<b>languages used : </b>python, HTML, CSS, Bootstrap<br>
+<b>languages used : </b>python, HTML, CSS<br>
 <b>WebFrameWork used : </b>FLASK<br>
 <b>AI frameworks used : </b>Keras, Tensorflow<br>
 <b>python libraries used:</b>Pandas, Numpy, pickle<br>
@@ -52,3 +51,4 @@ Flask web application to make predictions.
 
 Project done by <br>
 s.bala sujith kumar<br>
+K.prem kumar<br>
